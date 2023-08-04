@@ -3,9 +3,10 @@
 I'm 
 
 - 🎓 a rising fourth year studying computer science, data science, and economics at UC Berkeley
-- 👨‍💻 an undergraduate research apprentice, focusing on human-AI and econ research
+- 👨‍💻 an undergraduate researcher, focusing on human-AI and econ research
 - ⚽ an avid soccer player & 📸 photography enthusiast
 - 🍎 formerly on Data 8 course staff, teaching intro to data science
+- working on statpass, an app designed to make the intramural league experience more fun & exciting
 
 Feel free to reach out!
 - Send me a DM: ronyifengwang AT gmail.com
