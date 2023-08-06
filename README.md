@@ -9,7 +9,7 @@ I'm
 - working on statpass, an app designed to make the intramural league experience more fun & exciting
 
 Feel free to reach out!
-- Send me a DM: ron DOT yifeng DOT wang AT gmail.com
+- Send me a DM: ron AT ronyw.com
 ```
 <!-- [![GitHub Stats](https://github-readme-stats-eta-five-94.vercel.app/api?username=ronyw7&theme=calm)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats-eta-five-94.vercel.app/api/top-langs/?username=ronyw7)](https://github.com/anuraghazra/github-readme-stats) -->
