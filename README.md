@@ -18,8 +18,3 @@ Feel free to reach out!
 
 
 
-<a href="https://octo-ring.com/">Octo Ring</a> </br> [<a href="https://octo-ring.com/p/ronyw7/prev">Prev</a>] 
-[<a href="https://octo-ring.com/p/ronyw7/random">Random</a>]
-[<a href="https://octo-ring.com/p/ronyw7/next">Next</a>]
-
-
