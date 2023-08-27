@@ -3,10 +3,9 @@
 I'm 
 
 - 🎓 a rising fourth year studying computer science, data science, and economics at UC Berkeley
-- 👨‍💻 an undergraduate researcher, focusing on human-AI and econ research
+- 👨‍💻 an undergraduate research assistant, focusing on human-AI interfaces
 - ⚽ an avid soccer player & 📸 photography enthusiast
-- 🍎 formerly on Data 8 course staff, teaching intro to data science
-- working on statpass, an app designed to make the intramural league experience more fun & exciting
+- 🍎 TA for Data 101, Data Engineering at UC Berkeley; formerly on Data 8 course staff, teaching intro to data science
 
 Feel free to reach out!
 - Send me a DM: ron AT ronyw.com
