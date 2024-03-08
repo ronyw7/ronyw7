@@ -6,7 +6,7 @@ I'm
 - 🎓 a fourth year studying computer science, data science, and economics at UC Berkeley
 - 👨‍💻 an undergraduate researcher at <a href="https://sky.cs.berkeley.edu/">Sky Computing Lab</a> & <a href="https://parksinchaisri.github.io/#bobalab">BOBALab</a> .
 - ⚽ an avid soccer player & 📸 photography enthusiast
-- 🍎 TA for Data 101, Data Engineering at UC Berkeley; formerly on Data 8 course staff, teaching Intro to Data Science
+- 🍎 prev: TA for Data 101, Data Engineering; Data 8, Intro to Data Science
 
 Feel free to reach out!
 - Send me a DM: ron AT ronyw.com
