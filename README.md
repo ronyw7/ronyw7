@@ -5,7 +5,7 @@ I'm
 
 - 🎓 a fourth year studying computer science, data science, and economics at UC Berkeley
 - 👨‍💻 an undergraduate researcher at <a href="https://sky.cs.berkeley.edu/">Sky Computing Lab</a> & <a href="https://parksinchaisri.github.io/#bobalab">BOBALab</a> .
-- ⚽ an avid soccer player & 📸 photography enthusiast
+- ⚽ soccer player & 📸 photography enthusiast
 - 🍎 prev: TA for Data 101, Data Engineering; Data 8, Intro to Data Science
 
 Feel free to reach out!
