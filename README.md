@@ -1,12 +1,9 @@
 ### Hi, I'm Ron | Cal '24 | :coffee: :bubble_tea: :soccer: :video_game:
 <pre>
   <code>
-I'm 
-
-- 🎓 a fourth year studying computer science, data science, and economics at UC Berkeley
-- 👨‍💻 an undergraduate researcher at <a href="https://sky.cs.berkeley.edu/">Sky Computing Lab</a> & <a href="https://parksinchaisri.github.io/#bobalab">BOBALab</a> .
-- ⚽ soccer player & 📸 photography enthusiast
-- 🍎 prev: TA for Data 101, Data Engineering; Data 8, Intro to Data Science
+I've recently graduated from UC Berkeley, where I studied Computer Science, Data Science, and Economics. 
+    
+I am interested in distributed systems & AI. I did research at <a href="https://sky.cs.berkeley.edu/">Sky Computing Lab</a> & <a href="https://parksinchaisri.github.io/#bobalab">BOBALab</a>. I will be attending Stanford this fall as an MSCS student.
 
 Feel free to reach out!
 - Send me a DM: ron AT ronyw.com
