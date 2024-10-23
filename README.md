@@ -1,9 +1,9 @@
 ### Hi, I'm Ron | Cal '24 | :coffee: :bubble_tea: :soccer: :video_game:
 <pre>
   <code>
-I've recently graduated from UC Berkeley, where I studied Computer Science, Data Science, and Economics. 
+I'm a first-year MSCS student at Stanford. I've recently graduated from UC Berkeley, where I studied Computer Science, Data Science, and Economics. 
     
-I am interested in distributed systems & AI. I did research at <a href="https://sky.cs.berkeley.edu/">Sky Computing Lab</a> & <a href="https://parksinchaisri.github.io/#bobalab">BOBALab</a>. I will be attending Stanford this fall as an MSCS student.
+I am interested in Systems & AI. I'm working on research at <a href="https://sky.cs.berkeley.edu/">Sky Computing Lab</a>.
 
 Feel free to reach out!
 - Send me a DM: ron AT ronyw.com
