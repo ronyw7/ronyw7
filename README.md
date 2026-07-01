@@ -1,9 +1,7 @@
-### Hi there, I'm Ron!
+### Hi there!
 <pre>
   <code>
 I'm a second-year MS student at Stanford, studying Computer Science.
-    
-I am interested in Systems & AI.
 
 Feel free to reach out!
   </code>
